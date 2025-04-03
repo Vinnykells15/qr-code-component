@@ -44,11 +44,11 @@ body {
 
 @media (max-width: 450px) {
   .container{
-    max-width: 200px;
+    max-width: 300px;
   }
 
   .qr-code-image{
-    height: 200px;
+    height: 300px;
     width: auto;
   }
 }
