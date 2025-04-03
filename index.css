@@ -50,6 +50,7 @@ body {
   .qr-code-image {
     height: 300px;
     width: auto;
+    border-radius: 10px;
   }
 
   .bold-text {
