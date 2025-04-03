@@ -43,12 +43,20 @@ body {
 }
 
 @media (max-width: 450px) {
-  .container{
+  .container {
     max-width: 300px;
   }
 
-  .qr-code-image{
+  .qr-code-image {
     height: 300px;
     width: auto;
+  }
+
+  .bold-text {
+    font-size: 20px;
+  }
+
+  .light-text {
+    font-size: 17px;
   }
 }
